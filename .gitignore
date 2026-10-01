@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Archivos comprimidos (material original ya descomprimido dentro de data/ y notebooks/)
+*.zip
+
+# SO / editores
+.DS_Store
+Thumbs.db
